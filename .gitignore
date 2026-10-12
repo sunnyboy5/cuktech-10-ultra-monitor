@@ -1,0 +1,13 @@
+# 构建产物
+Build/*.app
+Build/PackageRoot/
+Build/AppIcon.iconset/
+Build/*.dmg
+
+# Xcode 用户状态
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# 系统
+.DS_Store
